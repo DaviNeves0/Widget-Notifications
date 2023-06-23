@@ -4,7 +4,10 @@ Estudo de um interface para um widget de notificações, feito com Next.Js e Tai
 
 
 Tema DARK:
-![Scree dark](https://imgur.com/4dnGlZC "Tema Dark")
+
+![Scree light](https://i.ibb.co/ZLvj6Jw/Sem-t-tulo.jpg "Tema Light")
+
 
 Tema LIGHT:
-![Scree light](https://imgur.com/NiReBBG "Tema Light")
+
+![Scree dark](https://i.ibb.co/rdBxhSC/Sem-t-tulofd.jpg "Tema Dark")
